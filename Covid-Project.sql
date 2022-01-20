@@ -1,5 +1,5 @@
 /*
-Covid Prokect - Queries used for Tableau Visualization
+Covid Project - Queries used for Tableau Visualization
 */
 
 -- 1. 
